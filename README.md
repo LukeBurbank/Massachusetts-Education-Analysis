@@ -27,4 +27,4 @@ This project analyzes education performance data across Massachusetts schools us
 - Several schools had significantly lower graduation percentages compared to state averages
 
 ## Tableau Dashboard
-link
+https://public.tableau.com/app/profile/luke.burbank1441/viz/Massschoolproject/Dashboard1
